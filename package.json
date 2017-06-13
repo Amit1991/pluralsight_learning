@@ -1,0 +1,28 @@
+{
+  "name": "pluralsight_learning",
+  "version": "1.0.0",
+  "description": "Learning Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+	"start": "node buildScripts/srcServer.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Amit1991/pluralsight_learning.git"
+  },
+  "keywords": [
+    "pluralsight",
+    "learning"
+  ],
+  "author": "Amit",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Amit1991/pluralsight_learning/issues"
+  },
+  "homepage": "https://github.com/Amit1991/pluralsight_learning#readme",
+  "dependencies": {
+    "express": "^4.15.3",
+    "open": "0.0.5"
+  }
+}
